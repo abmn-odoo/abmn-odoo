@@ -1,4 +1,4 @@
-# Hi there, I'm Abdulrahman Trad! 👋
+# Hi there, I'm Mongy! 👋
 
 **Software Development Engineer** based in **Grand-Rosière, Belgium**.
 
@@ -33,15 +33,9 @@ I am a passionate software engineer with a strong background in backend developm
 
 ### **Software Development Engineer @ [Odoo](https://www.odoo.com)**
 _(Jun 2025 - Present)_
-- Engineered core features for Odoo’s Accounting suite using **Python**, **JavaScript (OWL)**, and **PostgreSQL**.
-- Optimized the **German Datev reporting engine**, reducing generation time by **50%**.
-- Restored reliability to the **Italian SDI e-invoicing integration**.
 
-### **Software Development Engineer @ Noon**
+### **Software Development Engineer @ [Noon](https://www.noon.com/)**
 _(Feb 2024 - May 2025)_
-- Owned the lifecycle of **Marketplace Cart and Checkout services** (Python/FastAPI, MySQL, GCP).
-- Optimized order confirmation API latency by **80% (100ms to 20ms)**.
-- Handled loads exceeding **400 RPS** and designed low-latency event processors.
 
 ---
 
@@ -54,6 +48,12 @@ I actively participate in algorithmic contests and have solved **3000+ problems*
 - 🏅 **15th Place** - Egyptian Collegiate Programming Contest 2024.
 - 🎓 **Mentor**: Coached students to qualify for ACPC 2024 (securing 20th and 40th places).
 
+Check out my 
+
+ - [ICPC ID](https://icpc.global/ICPCID/DTR6461DR47I) 
+ - [Codeforces](https://codeforces.com/profile/Mongy)
+ - [AtCoder](https://atcoder.jp/users/Mongy)
+ 
 ---
 
 ## 🛠 Selected Projects
@@ -75,4 +75,4 @@ _Django, Rasa, ElectronJS_
 
 ### 📫 Connect with me
 - 📧 **Email**: [abdo.mongytrad@gmail.com](mailto:abdo.mongytrad@gmail.com)
-<!-- - 💼 **LinkedIn**: [Add LinkedIn URL] -->
+- 💼 **LinkedIn**: [Abdulrahman Mongy](https://www.linkedin.com/in/abdulrahman-mongy) 
