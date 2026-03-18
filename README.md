@@ -74,5 +74,5 @@ _Django, Rasa, ElectronJS_
 ---
 
 ### 📫 Connect with me
-- 📧 **Email**: [abdo.mongytrad@gmail.com](mailto:abdo.mongytrad@gmail.com)
+- 📧 **Email**: [abmn@odoo.com](mailto:abmn@odoo.com)
 - 💼 **LinkedIn**: [Abdulrahman Mongy](https://www.linkedin.com/in/abdulrahman-mongy) 
